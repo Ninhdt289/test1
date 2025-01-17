@@ -6,6 +6,10 @@ fun main(){
     val a = baocc("khac hoang ngu")
     multiple(1,1)
     sum(9,10)
+    println("nguyen khac hang con cho an cut")
+    println("nguyen khac hang con cho an cut")
+    println("nguyen khac hang con cho an cut")
+    println("nguyen khac hang con cho an cut")
 }
 
 fun multiple(a: Int, b: Int): Int = a /b
